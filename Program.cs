@@ -8,6 +8,10 @@ namespace practice1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("输出1-9的数字");
+            for (int i = 1; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
 
         }
     }
